@@ -16,7 +16,7 @@ export default function App() {
         <Links />
       </head>
       <body>
-        <h1>Hello</h1>
+        <h1>Helloo</h1>
         <Outlet />
         <ScrollRestoration /> 
         <Scripts />

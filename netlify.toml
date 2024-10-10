@@ -1,5 +1,5 @@
 [build]
-  command = "DISABLE_TTY=true remix env:replace TTY=false && remix init && remix vite:build"
+  command = "npm run build"
   publish = "public"
 
 [dev]
